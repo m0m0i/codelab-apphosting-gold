@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "friendlyeats-codelab-gold": "codelab-apphosting",
+    "ilj-apphosting": "ilj-apphosting-433723",
+    "prod": "ilj-apphosting-433723"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
